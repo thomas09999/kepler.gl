@@ -633,6 +633,8 @@ this.props.dispatch(
 );
 ```
 
+Donate; 0xA592187d0525B8853a77473e57659e48Ed9B5A59
+
 Read more about [addDataToMap](./docs/api-reference/actions/actions.md#adddatatomap) and [Saving and loading maps with schema manager][saving-loading-w-schema].
 
 [contributing]: contributing/README.md
